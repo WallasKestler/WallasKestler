@@ -3,11 +3,14 @@
 <img src='mybanner.png'>
 
 <h1>About me</h1>
-- 👋 Hi, I’m @WallasKestler
-- 👀 I’m interested in being a pentest.
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..
+
+<i>Name: Wallas Kestler </i>
+<br>
+<i>Age: 18 years
+<br>
+Studying to be an ethical hacker👨🏻‍💻
+<br>
+learning to work in the area of ​​offensive cybersecurity🕵🏻
 
 <!---
 WallasKestler/WallasKestler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
