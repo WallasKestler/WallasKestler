@@ -1,7 +1,3 @@
-
-
-<img src='mybanner.png'>
-
 <h1>About me</h1>
 
 <i>Name: Wallas Kestler </i>
